@@ -1,12 +1,13 @@
 {
-  "event": {
-    "name": "string",
-    "description": "string",
-    "start & end date": "string",
-    "location": "string",
-    "url": "string",
-    "prizes": [],
-    "level": [],
-    "attendees": []
-  }
+  "name": "",
+  "description": "",
+  "date": {
+    "start": "",
+    "end": ""
+  },
+  "location": "",
+  "url": "",
+  "prizes": [],
+  "level": [],
+  "attendees": []
 }
