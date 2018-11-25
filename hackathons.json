@@ -9,7 +9,7 @@
     "location": "Knotel, 7 Soho Square, London, W1D 3QE",
     "url": "https://www.eventbrite.co.uk/e/tech-industry-executive-update-on-brexit-tickets-52484172573",
     "prizes": [],
-    "level": [],
+    "level": ['beginner', 'intermediate', 'advanced'],
     "attendees": []
   },
   {
@@ -22,7 +22,7 @@
     "location": "London Business School, 26 Sussex Place, London, NW1",
     "url": "https://www.eventbrite.co.uk/e/hacklbs-lbs-hackathon-tickets-52707313995",
     "prizes": [],
-    "level": [],
+    "level": ['beginner', 'intermediate'],
     "attendees": []
   }
 ]
