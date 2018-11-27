@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "name": "Defense Logistics Hackathon",
     "description":
       "Accelerating Logistics Decision Support through exploiting Artificial Intelligence (AI) & Machine Learning (ML) capabilities",
@@ -47,28 +48,44 @@
     "name": "Tech Industry Executive Update on Brexit",
     "description":
       "We would like to invite you to an event in London specifically for key tech company executives, founders, CEOs and key tech industry influencers, on the next steps in Brexit, hosted byTech For UK and Best For Britain",
+=======
+    "name": "Tech Industry Executive Update on Brexit",
+    "description": "We would like to invite you to an event in London specifically for key tech company executives, founders, CEOs and key tech industry influencers, on the next steps in Brexit, hosted byTech For UK and Best For Britain",
+>>>>>>> 828fec804dec2aa4520c1a71134f8df4f8024632
     "date": {
       "start": "2018-11-22 18:30:00",
       "end": "2018-11-22 21:30:00"
     },
     "location": "Knotel, 7 Soho Square, London, W1D 3QE",
+<<<<<<< HEAD
     "url":
       "https://www.eventbrite.co.uk/e/tech-industry-executive-update-on-brexit-tickets-52484172573",
+=======
+    "url": "https://www.eventbrite.co.uk/e/tech-industry-executive-update-on-brexit-tickets-52484172573",
+>>>>>>> 828fec804dec2aa4520c1a71134f8df4f8024632
     "prizes": [],
     "level": ["beginner", "intermediate", "advanced"],
     "attendees": []
   },
   {
     "name": "HackLBS- LBS Hackathon",
+<<<<<<< HEAD
     "description":
       "Bringing together the brightest business minds, genius coders, and design gurus to indulge in three days of product design madness",
+=======
+    "description": "Bringing together the brightest business minds, genius coders, and design gurus to indulge in three days of product design madness",
+>>>>>>> 828fec804dec2aa4520c1a71134f8df4f8024632
     "date": {
       "start": "2018-11-23 18:00:00",
       "end": "2018-11-25 18:00:00"
     },
     "location": "London Business School, 26 Sussex Place, London, NW1",
+<<<<<<< HEAD
     "url":
       "https://www.eventbrite.co.uk/e/hacklbs-lbs-hackathon-tickets-52707313995",
+=======
+    "url": "https://www.eventbrite.co.uk/e/hacklbs-lbs-hackathon-tickets-52707313995",
+>>>>>>> 828fec804dec2aa4520c1a71134f8df4f8024632
     "prizes": [],
     "level": ["beginner", "intermediate"],
     "attendees": []
