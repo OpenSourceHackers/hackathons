@@ -1,7 +1,5 @@
 # Hackathons
 
-
-This PROJECT aims to provide information on upcoming hackathons around the world. The ultimate goal for the PROJECT is to offer a dynamic booking system for hackathons, a place for knowledge sharing and reviews.
 =======
 
 This application aims to provide information on any upcoming hackathons around the world. The ultimate goal for the application is to offer a dynamic booking system for hackathons, a place for knowledge sharing and reviews.
