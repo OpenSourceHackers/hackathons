@@ -1,26 +1,91 @@
 [
   {
+
+    "name": "Defense Logistics Hackathon",
+    "description":
+      "Accelerating Logistics Decision Support through exploiting Artificial Intelligence (AI) & Machine Learning (ML) capabilities",
+    "date": {
+      "start": "2018-11-29 09:00:00",
+      "end": "2018-11-30 19:00:00"
+    },
+    "location": "CentrEd ExCel London",
+    "url":
+      "https://www.hackathon.com/event/defence-logistics-hackathon-51749745883",
+    "prizes": [],
+    "level": ["beginner", "intermediate"],
+    "attendees": []
+  },
+  {
+    "name": "London Open Data Hackathon",
+    "description":
+      "Come explore London's Open Data and find exciting insights, hone your data skills",
+    "date": {
+      "start": "2018-12-05 18:30:00",
+      "end": "2018-12-06 21:00:00"
+    },
+    "location": "IDEALondon, 69 Wilson Street, London, EC2A 2BB",
+    "url":
+      "https://www.eventbrite.co.uk/e/london-open-data-hackathon-tickets-52773700559",
+    "prizes": [],
+    "level": ["beginner", "intermediate"],
+    "attendees": []
+  },
+  {
+    "name": "Hack the Police Hackathon",
+    "description":
+      "Police are reaching out to the tech community to find better ways to help people.",
+    "date": {
+      "start": "2018-12-08 10:00:00",
+      "end": "2018-12-08 17:00:00"
+    },
+    "location": "Location TBC",
+    "url": "https://hackthepolice.com/london/",
+    "prizes": [],
+    "level": ["beginner", "intermediate"],
+    "attendees": []
+  },
+  {
+    "name": "Tech Industry Executive Update on Brexit",
+    "description":
+      "We would like to invite you to an event in London specifically for key tech company executives, founders, CEOs and key tech industry influencers, on the next steps in Brexit, hosted byTech For UK and Best For Britain",
+=======
     "name": "Tech Industry Executive Update on Brexit",
     "description": "We would like to invite you to an event in London specifically for key tech company executives, founders, CEOs and key tech industry influencers, on the next steps in Brexit, hosted byTech For UK and Best For Britain",
+
     "date": {
       "start": "2018-11-22 18:30:00",
       "end": "2018-11-22 21:30:00"
     },
     "location": "Knotel, 7 Soho Square, London, W1D 3QE",
+
+    "url":
+      "https://www.eventbrite.co.uk/e/tech-industry-executive-update-on-brexit-tickets-52484172573",
+=======
     "url": "https://www.eventbrite.co.uk/e/tech-industry-executive-update-on-brexit-tickets-52484172573",
+
     "prizes": [],
     "level": ["beginner", "intermediate", "advanced"],
     "attendees": []
   },
   {
     "name": "HackLBS- LBS Hackathon",
+
+    "description":
+      "Bringing together the brightest business minds, genius coders, and design gurus to indulge in three days of product design madness",
+=======
     "description": "Bringing together the brightest business minds, genius coders, and design gurus to indulge in three days of product design madness",
+
     "date": {
       "start": "2018-11-23 18:00:00",
       "end": "2018-11-25 18:00:00"
     },
     "location": "London Business School, 26 Sussex Place, London, NW1",
+
+    "url":
+      "https://www.eventbrite.co.uk/e/hacklbs-lbs-hackathon-tickets-52707313995",
+=======
     "url": "https://www.eventbrite.co.uk/e/hacklbs-lbs-hackathon-tickets-52707313995",
+
     "prizes": [],
     "level": ["beginner", "intermediate"],
     "attendees": []
