@@ -1,10 +1,5 @@
 # Hackathons
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 828fec804dec2aa4520c1a71134f8df4f8024632
-
 This application aims to provide information on any upcoming hackathons around the world. The ultimate goal for the application is to offer a dynamic booking system for hackathons, a place for knowledge sharing and reviews.
 
 ## Getting Started
@@ -20,9 +15,8 @@ Full tech stack TBC.
 Github
 Github Pages
 ```
-=======
-This project is aimed to list hackathons and their relative information.
 
+This project is aimed to list hackathons and their relative information.
 
 ## Contribution
 
@@ -54,4 +48,3 @@ Use the `template.json` file to see what fields and data are required.
 
 Voila!
 Any questions just ask us, we are friendly "Open Source Hackers"
-
